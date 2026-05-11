@@ -122,7 +122,7 @@ The complete analysis and dashboard development were performed using
 <h2>📷 Dashboard Preview</h2>
 
 <p align="center">
-  <img src="PythonQuery.png" width="900" alt="Dashboard in Python">
+  <img src="ImgPythonQuery.png" width="900" alt="Dashboard in Python">
 </p>
 
 <hr>
