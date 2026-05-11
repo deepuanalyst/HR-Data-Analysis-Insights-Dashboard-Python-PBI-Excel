@@ -1,7 +1,7 @@
 <h1 align="center">📊 HR Analytics Dashboard</h1>
 
 <p align="center">
-  <img src="HRDashboard.png" width="900" alt="HR Analytics Dashboard">
+  <img src="ImgHRDashboard.png" width="900" alt="HR Analytics Dashboard">
 </p>
 
 <hr>
